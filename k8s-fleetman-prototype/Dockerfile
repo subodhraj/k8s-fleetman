@@ -1,4 +1,4 @@
-FROM nginx:1.14.0-alpine
+FROM nginx:1.24-alpine
 
 MAINTAINER Richard Chesterwood "richard@inceptiontraining.co.uk"
 
